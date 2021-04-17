@@ -1,5 +1,5 @@
 # Animation-CSS
-PROJET 3 : Dynamisez une page web avec des animations CSS (OpenClassroom)
+Projet 3 : Dynamisez une page web avec des animations CSS (OpenClassroom)
 
 Les consignes de ce projet sont les suivantes :
 ▬ Réaliser un site vitrine en suivant des maquettes (https://i.imgur.com/ZzWfKb1.png et https://i.imgur.com/CZ9RC5t.png )
